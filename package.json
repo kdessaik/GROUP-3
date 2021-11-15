@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/iTalantaAcademy-kakuma-1/GROUP-3#readme",
   "dependencies": {
+    "intl-tel-input": "^17.0.13",
     "jake": "^10.8.2"
   }
 }
